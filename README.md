@@ -53,13 +53,13 @@ This project brings together several core hardware design ideas:
 ## State Transition Diagram
 
 ### Flash Reader
-<img width="297" height="306" alt="image" src="https://github.com/user-attachments/assets/a0d14db4-3af0-456d-87ac-6e31af117abf" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a0d14db4-3af0-456d-87ac-6e31af117abf" />
 
 ### Address Control
-<img width="298" height="417" alt="image" src="https://github.com/user-attachments/assets/43e37eaf-a017-4c9a-b058-aa7af644caa5" />
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/43e37eaf-a017-4c9a-b058-aa7af644caa5" />
 
 ### Keyboard Control
-<img width="299" height="176" alt="image" src="https://github.com/user-attachments/assets/86bd45ad-1d9a-4628-8af5-71364e0475ae" />
+<img width="600" height="360" alt="image" src="https://github.com/user-attachments/assets/86bd45ad-1d9a-4628-8af5-71364e0475ae" />
 
 ## Simulation and Testing
 - **Quartus Prime** used for synthesis, timing analysis, and SignalTap debugging.
