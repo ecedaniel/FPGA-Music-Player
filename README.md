@@ -48,7 +48,7 @@ This project brings together several core hardware design ideas:
 ---
 
 ## Block Diagram
-<img width="398" height="187" alt="image" src="https://github.com/user-attachments/assets/7f63c1c2-a66d-403a-9a96-6f6bb9558992" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/7f63c1c2-a66d-403a-9a96-6f6bb9558992" />
 
 ## State Transition Diagram
 
