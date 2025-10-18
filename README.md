@@ -47,6 +47,20 @@ This project brings together several core hardware design ideas:
 
 ---
 
+## Block Diagram
+<img width="398" height="187" alt="image" src="https://github.com/user-attachments/assets/7f63c1c2-a66d-403a-9a96-6f6bb9558992" />
+
+## State Transition Diagram
+
+### Flash Reader
+<img width="297" height="306" alt="image" src="https://github.com/user-attachments/assets/a0d14db4-3af0-456d-87ac-6e31af117abf" />
+
+### Address Control
+<img width="298" height="417" alt="image" src="https://github.com/user-attachments/assets/43e37eaf-a017-4c9a-b058-aa7af644caa5" />
+
+### Keyboard Control
+<img width="299" height="176" alt="image" src="https://github.com/user-attachments/assets/86bd45ad-1d9a-4628-8af5-71364e0475ae" />
+
 ## Simulation and Testing
 - **Quartus Prime** used for synthesis, timing analysis, and SignalTap debugging.
 - **ModelSim-Altera** used for FSM and clock-divider simulation.
