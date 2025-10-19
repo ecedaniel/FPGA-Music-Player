@@ -43,7 +43,7 @@
                     OUTPUT s0, LED_port
                     LOAD sB, 00
                     ;
-                    ENABLE INTERRUPT                    ;enable one second heart beat
+                    ENABLE INTERRUPT                    ;enables interrupt
                     ;
                     ;
                     ;**************************************************************************************
@@ -167,4 +167,5 @@
                     ;
 
                     ;
+
 
