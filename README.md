@@ -4,7 +4,7 @@
 This project implements a **Simple IPod** on an FPGA board using Verilog HDL.  
 It interfaces with on-board **Flash memory**, a **keyboard**, and **audio output**, and integrates an **embedded PicoBlaze processor** to perform **real-time digital signal processing (DSP)** — specifically, an **averaging filter** that measures signal strength and displays it on LEDs.
 
-The design demonstrates fundamental concepts of **finite state machines (FSMs)**, **hardware–software co-design**, and **peripheral interfacing**, culminating in a small but complete embedded audio system.
+The design demonstrates fundamental concepts of **finite state machines (FSMs)**, **hardware–software co-design**, and **peripheral interfacing**, achieving a complete embedded audio system.
 
 ---
 
