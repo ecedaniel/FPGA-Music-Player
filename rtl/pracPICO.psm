@@ -1,12 +1,9 @@
-                    ; KCPSM3 Program - Practice Picoblaze on Spartan-3A Starter Kit.
-                    ;
-                    ;
-                    ;
-                    ;
-                    ; The 8 LEDs provide a simple 'heart beat' counter driven by interrupts generated at
-                    ; one second intervals.
-                    ;
-                    ;
+                    ; KCPSM3 Program - LED Strength Meter
+                    ; - Reads 8-bit samples from DATA_IN_PORT in the ISR
+                    ; - Takes absolute value (two's complement)
+                    ; - Accumulate into 16-bit sum (s2:s1) over a window (COUNTER overflow -> 256 samples)
+                    ; - On overflow, maps the high byte (s2) to 0..8 LEDs on LED_PORT, then clears accum+counter
+                    ; 
                     ;**************************************************************************************
                     ; Port definitions
                     ;**************************************************************************************
@@ -170,3 +167,4 @@
                     ;
 
                     ;
+
