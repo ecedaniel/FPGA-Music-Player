@@ -59,8 +59,8 @@
                     ; Interrupt Service Routine (ISR)
                     ;**************************************************************************************
                     ;
-                    ; The interrupt is used purely to provide a 1 second heart beat binary counter pattern
-                    ; on the 8 LEDs.
+                    ; 
+                    ; 
                     ;
 			   ISR: STORE s0, ISR_preserve_s0           ;preserve register
 					STORE s1, ISR_preserve_s1           ;preserve register
@@ -167,5 +167,6 @@
                     ;
 
                     ;
+
 
 
