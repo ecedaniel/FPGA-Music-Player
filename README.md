@@ -10,7 +10,7 @@ The design demonstrates fundamental concepts of **finite state machines (FSMs)**
 
 ## Features
 ### 🎧 Audio Playback
-- Reads 16-bit (or optionally 8-bit) audio samples from on-board Flash memory.
+- Reads 16-bit audio samples from on-board Flash memory.
 - Streams data to the DE1-SoC’s **audio D/A converter** at 22 kHz sampling rate.
 - Supports **play**, **pause**, **forward**, **backward**, and **reset** controls via the keyboard.
 
